@@ -1,0 +1,13 @@
+system_ext/apex/com.android.vndk.v30.apex filter=lfs diff=lfs merge=lfs -text
+product/app/Photos/Photos.apk filter=lfs diff=lfs merge=lfs -text
+product/app/Gmail2/Gmail2.apk filter=lfs diff=lfs merge=lfs -text
+product/app/WebViewGoogle/WebViewGoogle.apk filter=lfs diff=lfs merge=lfs -text
+product/app/TFDashboard/TFDashboard.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/AiServices/AiServices.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/GmsCore/GmsCore.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/MyMetro/MyMetro.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/MotCamera4/MotCamera4.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/Velvet/Velvet.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/Messages/Messages.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/VzwSecurityPrivacy/VzwSecurityPrivacy.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/VzwMyVerizon-v18-0-3/VzwMyVerizon-v18-0-3.apk filter=lfs diff=lfs merge=lfs -text
